@@ -22,7 +22,7 @@ getCategories();
 
 function listFunction(category) {
   let list = document.createElement("li");
-  list.innerText = category;
+  list.innerText = "▶ " + category;
   ul.appendChild(list);
 }
 

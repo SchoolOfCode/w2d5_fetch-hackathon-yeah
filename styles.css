@@ -1,0 +1,28 @@
+body {
+  margin: 0 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 80px;
+  color: blueviolet;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 30px;
+  color: #4b00e0;
+}
+#categories {
+  margin: 10px 300px;
+}
+#categories li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+p {
+  font-weight: bold;
+  padding-top: 20px;
+  font-size: 20px;
+}
